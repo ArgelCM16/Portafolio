@@ -1,0 +1,128 @@
+body
+{
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+header
+{
+    text-align: center;
+}
+nav
+{
+    background-color: lightslategray;
+    height: 50px;
+    border-radius: 10px ;
+}
+nav ul li
+{
+    float: left;
+    width: auto;
+    list-style: none;
+    margin: 15px;
+} 
+
+.Clearfix
+{
+    clear: both;
+}
+#contenido
+{
+    float: left;
+    border-radius: 25px;
+    width: 79%;
+    background-color: lightseagreen;
+}
+article
+{
+    margin: 15px;
+}
+aside
+{
+    background-color: lightblue;
+    text-align: center;
+    float: right;
+    height: auto;
+    width: 19%;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+footer
+{
+    text-align: center;
+}
+.di
+{
+    margin: 5px;
+}
+img
+{
+    float: left;
+    margin: 25px;
+    border-radius: 15px;
+    
+}
+#Registr
+{
+
+    text-align: center;
+    background-color: beige;
+    width: auto;
+    height: auto ;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin: 50px;
+}
+
+#re
+{
+    background-color: lightslategray;
+    height: 50px;
+    border-radius: 10px ;
+}
+form
+{
+    margin: 20px;
+}
+#aj
+{
+    margin:   auto;
+}
+.tita 
+{
+    text-align: center;
+    color: blue;
+}
+table
+{
+    width: 90%;
+    background-color: lightcyan;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: left;
+}
+.centro
+{
+    text-align: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    
+}
+td, th 
+{
+    border: 1px solid black;
+    padding: 20px;
+}
+thead
+{
+    background-color: rgb(7, 82, 25);
+    border-bottom: 5px;
+    color: aliceblue;
+    text-align: center;
+
+}
+#sos
+{
+text-align: left;
+}
